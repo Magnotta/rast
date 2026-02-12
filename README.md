@@ -26,15 +26,15 @@ No GPS or real-time astronomical calculations are performed on the microcontroll
 
 ### Early workshop assembly – side view
 
-![Early assembly – side view](images/build_side.jpg)
+![Early assembly – side view](images/build_side.jpeg)
 
 ### Final mounted solar panel – top view
 
-![Mounted panel – top view](images/panel_top.jpg)
+![Mounted panel – top view](images/panel_top.jpeg)
 
 ### Elevation mechanism close-up
 
-![Elevation joint detail](images/elevation_close.jpg)
+![Elevation joint detail](images/elevation_close.jpeg)
 
 ### Main circuit board schematic
 
@@ -46,7 +46,7 @@ No GPS or real-time astronomical calculations are performed on the microcontroll
 
 ### Results indicate no shadows cast on LDR, meaning excelent alingment! (5 V max ADC reading)
 
-![Test results](images/test_results.jpeg)
+![Test results](images/test_results.jpg)
 
 ## Repository Structure
 
